@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sathwick-p/my-app/static/css/main.a4a20492.chunk.css",
+    "main.js": "/sathwick-p/my-app/static/js/main.1ec133cd.chunk.js",
+    "main.js.map": "/sathwick-p/my-app/static/js/main.1ec133cd.chunk.js.map",
+    "runtime-main.js": "/sathwick-p/my-app/static/js/runtime-main.042e1eb7.js",
+    "runtime-main.js.map": "/sathwick-p/my-app/static/js/runtime-main.042e1eb7.js.map",
+    "static/js/2.779df5aa.chunk.js": "/sathwick-p/my-app/static/js/2.779df5aa.chunk.js",
+    "static/js/2.779df5aa.chunk.js.map": "/sathwick-p/my-app/static/js/2.779df5aa.chunk.js.map",
+    "static/js/3.0ac8146a.chunk.js": "/sathwick-p/my-app/static/js/3.0ac8146a.chunk.js",
+    "static/js/3.0ac8146a.chunk.js.map": "/sathwick-p/my-app/static/js/3.0ac8146a.chunk.js.map",
+    "index.html": "/sathwick-p/my-app/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/sathwick-p/my-app/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.779df5aa.chunk.js.LICENSE.txt": "/sathwick-p/my-app/static/js/2.779df5aa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sathwick-p/my-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.042e1eb7.js",
+    "static/js/2.779df5aa.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.1ec133cd.chunk.js"
+  ]
+}
