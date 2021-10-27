@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 // import { Link } from "react-router-dom";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+// import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 //rfc is typed for getting the base template
 export default function Navbar(props) {
   return (
@@ -24,20 +24,19 @@ export default function Navbar(props) {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <Router>
-            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-              <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="3">
-                  Home
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="#">
-                  {props.aboutText}
-                </Link>
-              </li>
-            </ul>
-          </Router>
+          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+            <li className="nav-item">
+              <a className="nav-link active" aria-current="page" href="#">
+                Home
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link" href="#">
+                {props.aboutText}
+              </a>
+            </li>
+          </ul>
+
           {/* <form className="d-flex">
             <input
               className="form-control me-2"
